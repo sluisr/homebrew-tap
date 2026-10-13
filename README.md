@@ -2,7 +2,7 @@
 
 Official Homebrew Tap for **[Corex](https://github.com/sluisr/corex)** — High-performance, ultra-fast autonomous AI coding agent written in native Rust.
 
-## 📦 Installation
+## Installation
 
 To install `cx` using Homebrew on macOS or Linuxbrew:
 
@@ -17,7 +17,7 @@ brew tap sluisr/tap
 brew install cx
 ```
 
-## 🚀 Usage
+## Usage
 
 Once installed, simply run:
 
@@ -31,7 +31,7 @@ Or execute automated one-shot tasks:
 cx -p "Analyze git status and run tests"
 ```
 
-## 🔄 Updating
+## Updating
 
 To upgrade to the latest version:
 
@@ -39,7 +39,7 @@ To upgrade to the latest version:
 brew upgrade cx
 ```
 
-## 🔗 Links
+## Links
 
 - **Main Repository:** [sluisr/corex](https://github.com/sluisr/corex)
 - **Releases:** [sluisr/corex/releases](https://github.com/sluisr/corex/releases)
